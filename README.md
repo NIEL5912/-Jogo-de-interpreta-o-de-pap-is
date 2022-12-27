@@ -1,5 +1,6 @@
-# -Jogo-de-interpreta-o-de-pap-is
+#jogo-de-interpretar-papeis
 Código criado por mim.
+
 #include <stdio.h>
 #include <stdlib.h>
 
